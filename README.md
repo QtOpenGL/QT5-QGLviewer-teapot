@@ -1,5 +1,5 @@
 # QT5-QGLviewer-teapot
-A barebone teapot based on QGLViewer
+A QT5 barebone teapot based on QGLViewer (works on Mac-High-Sierra and Windows10)
 ![myTeapot](gif/myGLTeapot0323.gif)  
  
 ### References
@@ -10,4 +10,7 @@ A barebone teapot based on QGLViewer
 
 ### Change Logs:
   - 0323 Upload
+  
+### To Do:
+  - Check Linux...
  
