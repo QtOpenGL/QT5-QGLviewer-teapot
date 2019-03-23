@@ -3,8 +3,8 @@ A barebone teapot based on QGLViewer
 ![myTeapot](gif/myGLTeapot0323.gif)  
  
 ### References
-  - [libQGLViewer](https://www.pololu.com/docs/0J40/5.a)
-  - [QTGLWidget Teapot](https://www.pololu.com/docs/0J40/5.c)
+  - [libQGLViewer](http://libqglviewer.com/)
+  - [QT GLWidget Teapot](https://github.com/WispProxy/OpenGL-Teapot-based-on-Qt-Cpp)
   <br/>
   <br/>
 
